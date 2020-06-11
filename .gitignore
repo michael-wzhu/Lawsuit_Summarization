@@ -5,4 +5,4 @@ metrics/
 src/.idea/
 src/__pycache__/
 src/events/
-
+*.csv
