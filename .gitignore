@@ -1,3 +1,5 @@
 CAIL2020-master/
 input/
 metrics/
+src/.idea
+src/__pycache__
