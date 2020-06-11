@@ -1,5 +1,8 @@
 CAIL2020-master/
 input/
+output/
 metrics/
-src/.idea
-src/__pycache__
+src/.idea/
+src/__pycache__/
+src/events/
+
